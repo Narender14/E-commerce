@@ -1,6 +1,11 @@
 E-Commerce - Website :
 =====================
 
+![ScreenShot](https://raw.github.com/Narender14/E-commerce/master/images/Home.png)
+
+![ScreenShot](https://raw.github.com/Narender14/E-commerce/master/images/Buy.png)
+
+![ScreenShot](https://raw.github.com/Narender14/E-commerce/master/images/Search.png)
 It is a general-purpose E-commerce website designed and developed in HTML and CSS and backhand with PHP
 and MySQL.Website has various features like -
 
