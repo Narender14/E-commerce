@@ -27,9 +27,19 @@ part while HTML file are doing display content part.
 
 
 REQUIREMENT :
+-------------
+You must have LAMP on your system. LAMP is a software bundle of Linux, Apache server, MYSQL Database and PHP.
+Set a User Name and Password for your Database.
 
-            You must have LAMP on your system. LAMP is a software bundle of Linux, Apache server, MYSQL Database and PHP.
-            Set a User Name and Password for your Database.
+A command line step-to-step procedure for LAMP Installation can be found [HERE.](https://help.ubuntu.com/community/ApacheMySQLPHP/) 
 
-            A command line step-to-step procedure can be found [HERE](https://help.ubuntu.com/community/ApacheMySQLPHP/) 
+RUN (In Linux):
+---
+            Download All the files and put them in /var/www directory. As it is the Local Host.
+
+type command : **http://localhost/main.html** , this is the home page of website and through this page you can navigate the
+complete website.
+            
+
+
 
