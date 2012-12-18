@@ -49,4 +49,3 @@ Contribution :
             Simply fork the repo and clone it to your local machine and start adding.
 A tutorial on how to contribute to github project is [HERE](https://help.github.com/articles/fork-a-repo/)
 
-
