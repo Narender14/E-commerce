@@ -44,6 +44,9 @@ RUN (In Linux):
 type command : **http://localhost/main.html** , this is the home page of website and through this page you can navigate the
 complete website.
             
-
+Contribution :
+---------------
+            Simply fork the repo and clone it to your local machine and start adding.
+A tutorial on how to contribute to github project is [HERE](https://help.github.com/articles/fork-a-repo/)
 
 
